@@ -52,7 +52,7 @@ Telah melakukan instalasi Python dan Jupyter Notebook
 
 ## Penggunaan Program
 
-Terdapat 4 contoh hasil library myConvexHull yang terdapat di dalam program. Untuk penggunaan contoh di luar yang telah disediakan program, anda cukup memanggil fungsi myConvexHull dan memberikan parameter data yang hendak anda visualisasikan. Hasil dari library myConvexHull kemudian perlu dilakukan plot menggunakan matplotlib sehingga didapatkan hasil Convex Hull yang diharapkan.
+Terdapat 5 contoh hasil library myConvexHull yang terdapat di dalam program. Untuk penggunaan contoh di luar yang telah disediakan program, anda cukup memanggil fungsi myConvexHull dan memberikan parameter data yang hendak anda visualisasikan. Hasil dari library myConvexHull kemudian perlu dilakukan plot menggunakan matplotlib sehingga didapatkan hasil Convex Hull yang diharapkan.
 
 ## Penulis
 
